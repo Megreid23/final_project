@@ -7,7 +7,7 @@
 * Reason for selected topic
   - Because it sounded like fun.
 * Description of data source
-  - From kaggle, ![https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist](link to dataset), sourced from MyAnimeList.com
+  - From kaggle, ![link to dataset](https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist), sourced from MyAnimeList.com
 * Questions to answer from data
   - Our goal is to predict potential ratings of anime in correlation with release dates.
 * Communication protocols

@@ -3,12 +3,12 @@
 ## Presentation
 
 * Selected topic
-- We choose to work on an anime dataset.
+  - We choose to work on an anime dataset.
 * Reason for selected topic
-- Because it sounded like fun.
+  - Because it sounded like fun.
 * Description of data source
-- From kaggle, [https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist](link to dataset), sourced from MyAnimeList.com
+  - From kaggle, [https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist](link to dataset), sourced from MyAnimeList.com
 * Questions to answer from data
-- Our goal is to predict potential ratings of anime in correlation with release dates.
+  - Our goal is to predict potential ratings of anime in correlation with release dates.
 * Communication protocols
-- We decided that utilizing class time to work on the project will suffice, as well as use a dedicated Slack groupchat to communicate with one another, to keep up to date on progress and establish extra meetings if necessary.
+  - We decided that utilizing class time to work on the project will suffice, as well as use a dedicated Slack groupchat to communicate with one another, to keep up to date on progress and establish extra meetings if necessary.

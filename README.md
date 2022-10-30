@@ -12,3 +12,5 @@
   - Our goal is to predict potential ratings of anime in correlation with release dates.
 * Communication protocols
   - We decided that utilizing class time to work on the project will suffice, as well as use a dedicated Slack groupchat to communicate with one another, to keep up to date on progress and establish extra meetings if necessary.
+* Dashboard Ideas:
+  - Original vs itemized sources combined / grouped into "Non-Original" for binary classification. 

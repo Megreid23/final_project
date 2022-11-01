@@ -1,6 +1,6 @@
 # final_project
 
-![git_banner](git_banner.png)
+![git_banner](git_banner_2.png)
 
 ## Presentation
 

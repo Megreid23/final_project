@@ -5,4 +5,5 @@
   - itemized sources score ranked
   - keywords ranked (action vs adventure vs fantasy)
     -(heatmap? bubble chart?)
+  - seasonality (avg score? original / non original? total #?)
   

@@ -5,7 +5,7 @@
 ## Presentation
 
 * Selected topic
-  - We choose to work on an anime dataset.
+  - We chose to work on an anime dataset.
 * Reason for selected topic
   - Because it sounded like fun.
 * Description of data source

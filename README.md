@@ -1,9 +1,11 @@
 # final_project
 
+![git_banner](gitbanner.png)
+
 ## Presentation
 
 * Selected topic
-  - We choose to work on an anime dataset.
+  - We chose to work on an anime dataset.
 * Reason for selected topic
   - Because it sounded like fun.
 * Description of data source
@@ -13,3 +15,16 @@
 * Communication protocols
   - We decided that utilizing class time to work on the project will suffice, as well as use a dedicated Slack groupchat to communicate with one another, to keep up to date on progress and establish extra meetings if necessary.
 
+
+## Technologies Used
+
+## Data Cleaning and Analysis
+
+
+## Database Storage
+
+
+## Machine Learning
+
+
+## Dashboard

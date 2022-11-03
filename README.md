@@ -15,3 +15,17 @@
 * Communication protocols
   - We decided that utilizing class time to work on the project will suffice, as well as use a dedicated Slack groupchat to communicate with one another, to keep up to date on progress and establish extra meetings if necessary.
 
+
+## Technologies Used
+
+## Data Cleaning and Analysis
+
+
+## Database Storage
+
+
+## Machine Learning
+
+
+## Dashboard
+

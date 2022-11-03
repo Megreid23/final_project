@@ -13,3 +13,4 @@ On the final project, I will fulfill the following roles:
 * Assist with final presentation
 
 ## Initial Quick DBD for database plan
+![quick_dbd](https://github.com/Megreid23/final_project/blob/main/anime%20starting%20quick%20dbd.PNG)

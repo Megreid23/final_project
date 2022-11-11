@@ -29,5 +29,6 @@ Fighting Goku Rachel: is using Python and Pandas to clean, extract, and preproce
 Fighting Goku Luis: is using Balanced Random Forester Classifier/Decision Tree for our machine learning portion.
 
 ## Dashboard
+Fighting Goku Jared: is using Tableau to create our dashboard to display our finalized dataset!
 
 

@@ -17,16 +17,17 @@
 
 
 ## Technologies Used
+--------------------------------------------------------------------------------------------------
 
-## Data Cleaning and Analysis
+### Data Cleaning and Analysis
 Fighting Goku Rachel: is using Python and Pandas to clean, extract, and preprocess our data--
 
-## Database Storage
+### Database Storage
 --using SQL as our database.
 
-## Machine Learning
+### Machine Learning
 Fighting Goku Luis: is using Balanced Random Forester Classifier/Decision Tree for our machine learning portion.
 
-## Dashboard
+### Dashboard
 Fighting Goku Jared: is using Tableau to create our dashboard to display our finalized dataset!
 

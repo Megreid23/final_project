@@ -5,9 +5,9 @@
 ## Presentation
 
 * Selected topic
-  - We chose to work on an anime dataset.
+  - We chose to work on an anime dataset. This dataset covers the title, the type (TV or movie), episode count, and the starting date and season for each release.
 * Reason for selected topic
-  - Because it sounded like fun.
+  - It appealed to our group as an interesting topic to work on, being that the majority of us are fans of anime. It also has a relevant academic interest for us, as our achieving goal (to know if the time of release effects projected ratings) might help us predict potential releases for new seasons.
 * Description of data source
   - From kaggle, [link to dataset](https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist), sourced from MyAnimeList.com
 * Questions to answer from data

@@ -23,11 +23,7 @@
 ### Data Cleaning and Analysis
 Fighting Goku Rachel: is using Python and Pandas to clean, extract, and preprocess our data--
 
-
 ### Database Storage
---using SQL as our database.
-=======
-## Database Storage
 --and is using SQL as our database.
 
 ### Machine Learning

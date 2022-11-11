@@ -36,3 +36,6 @@ Fighting Goku Luis: is using Balanced Random Forester Classifier/Decision Tree f
 Fighting Goku Jared: is using Tableau to create our dashboard to display our finalized dataset!
 
 
+## Description of Data Exploration
+
+## Description of Data Analysis

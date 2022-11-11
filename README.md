@@ -26,9 +26,6 @@ Fighting Goku Rachel: is using Python and Pandas to clean, extract, and preproce
 
 ### Database Storage
 --using SQL as our database.
-=======
-## Database Storage
---and is using SQL as our database.
 
 ### Machine Learning
 Fighting Goku Luis: is using Balanced Random Forester Classifier/Decision Tree for our machine learning portion.

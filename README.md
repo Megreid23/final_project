@@ -2,6 +2,9 @@
 
 ![git_banner](gitbanner.png)
 
+
+[link to Google Slide](https://docs.google.com/presentation/d/1_hMblo0-NbiRcU7oeg283wMRgKTc03x0-ilbHuAfsQU/edit#slide=id.p)
+
 ## Presentation
 
 * Selected topic

@@ -11,4 +11,5 @@ Google Slides rough draft presentation:
 https://docs.google.com/presentation/d/1_hMblo0-NbiRcU7oeg283wMRgKTc03x0-ilbHuAfsQU/edit#slide=id.g14f4dde2510_0_0
 
 Interactive Dashboard link (in progress):
-https://public.tableau.com/app/profile/jared7163/viz/Final_Project_Dashboard_Interactive1/Dashboard4?publish=yes
+https://public.tableau.com/app/profile/jared7163/viz/Final_Project_Dashboard_Interactive_Draft/Story2?publish=yes
+

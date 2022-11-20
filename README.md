@@ -32,7 +32,10 @@
 * SciKitLearn
 * Tableau
 
+## Data Preprocessing
 
-## Description of Machine Learning Process
+## Database
 
-## Description of Dashboard Creation Process
+## Machine Learning
+
+## Dashboard

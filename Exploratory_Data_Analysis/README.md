@@ -5,14 +5,14 @@
 
 * Visualize source value counts
 
-![visualize_sources](../Images/visualize_sources.PNG)
+![sources](../Images/sources.PNG)
 
 * Bin sources into Original and Non-original
 * Drop rows with null values
 * Convert score, episode, and date floats into integers
 * Visualize score value counts
 
-![visualize_scores](../Images/visualize_scores.PNG)
+![scores](../Images/scores.PNG)
 
 * Bin scores into Average and High
 * Separate list-like columns of genre, themes, demographics, studios, producers, and licensors into individual columns; drop those columns with too little information to be used

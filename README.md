@@ -19,11 +19,6 @@
 * Questions to answer from data
   - What features have the most impact on the review score?
   - Is there a way to predict the success of an anime using the features in the MAL database?
-  
-### Communication protocols
-  - The group has a dedicated Slack groupchat to communicate outside of the normal class schedule. 
-  - We are using class time to work on the project together as needed. 
-  - Extra meetings have been scheduled when needed. 
 
 ### Team member responsibilities
 - Megan Reid - Git and technology wrangler

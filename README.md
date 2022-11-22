@@ -46,6 +46,7 @@
 
 ### Machine Learning Results
 * After cross validating the model with RandomizedSearchCV we were able to produce a balanced accuracy score of (~.83).
+
 ![BAS](./ML_Resources/BalancedAccuScore.png)
 
 #### Reviewing our results through the lens of the F1 score. 

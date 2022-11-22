@@ -13,15 +13,19 @@ Initial preprocessing stops included determining which columns were not useful f
 
 ### Data Exploration
 The correlation matrix showed us that there was correlation between the scored_by, members, and favorites variables. 
+
 ![correlation](../Images/correlation.PNG)
 
 The source/score distribution showed that web_novels receive the highest scores, followed by the more traditional mediums of manga, visual_novel, and light_novel. 
+
 ![source-score](../Images/source-score.PNG)
 
 The type of anime didn’t make as much of an impact on the score, although movies and tv shows, the two most common type of anime production, edged out the rest of the special types like OVA and ONA. 
+
 ![type-score](../Images/type-score.PNG)
 
 Finally, the rating of the anime also had some impact on the overall score, in that the two extremes, G and X ratings, scored the lowest, whereas R and PG13 scored the highest. 
+
 ![rating-score](../Images/rating-score.PNG)
 
 ### Binning Sources

@@ -37,5 +37,7 @@
 ## Database
 
 ## Machine Learning
+* Using a binary classification model (BalancedRandomForestClassifier) we are inputing our features in order to determine if they have any correlation with predicting the score the naime has been given. 
+
 
 ## Dashboard

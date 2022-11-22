@@ -34,7 +34,12 @@
 
 ## Data Preprocessing
 
+For a full breakdown of preprocessing, visit the [README](https://github.com/Megreid23/final_project/blob/9ff692bcb00bf8446f2d7f335def67ebeb1562bc/Exploratory_Data_Analysis/README.md) and investigate the [Notebook](https://github.com/Megreid23/final_project/blob/9ff692bcb00bf8446f2d7f335def67ebeb1562bc/Exploratory_Data_Analysis/anime_project.ipynb).
+
 ## Database
+The database was created in PostgresSQL and connected through SQLAlchemy. 
+
+![pgAdmin_ERD](./Images/pgAdmin_ERD.png)
 
 ## Machine Learning
 

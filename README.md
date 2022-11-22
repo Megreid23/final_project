@@ -49,7 +49,7 @@
 
 ![BAS](./ML_Resources/BalancedAccuScore.png)
 
-#### Reviewing our results through the lens of the F1 score. 
+### Reviewing our results through the lens of the F1 score. 
 * The F1 score shows us the balance between precision and recall.
 ![F1 Score](./ML_Resources/F1Score.png)
 

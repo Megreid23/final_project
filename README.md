@@ -38,18 +38,20 @@
 
 ## Machine Learning
 
-* Using a binary classification model (BalancedRandomForestClassifier) we are inputing our features in order to determine if they have any correlation with predicting the score the Anime has been given.
+* Using a binary classification model (BalancedRandomForestClassifier) we are inputting our features in order to determine if they have any correlation with predicting the score the Anime has been given.
 
 ![Train/Test](./ML_Resources/TrainTest.png)
 
 * Using scikit learn we implemented train test split in order to split the data in the machine learning model. 
 
-#### Results
+### Machine Learning Results
 * After cross validating the model with RandomizedSearchCV we were able to produce a balanced accuracy score of (~.83).
 ![BAS](./ML_Resources/BalancedAccuScore.png)
 
-##### Reviewing our results through the ens of the F1 score. 
+#### Reviewing our results through the lens of the F1 score. 
 * The F1 score shows us the balance between precision and recall.
 ![F1 Score](./ML_Resources/F1Score.png)
+
+* At a F1 score of .85 it shows the model was able to achieve a good result predicting our classification model in both recall and precision. 
 
 ## Dashboard

@@ -61,3 +61,4 @@ The database was created in PostgresSQL and connected through SQLAlchemy.
 * At a F1 score of .85 it shows the model was able to achieve a good result predicting our classification model in both recall and precision. 
 
 ## Dashboard
+[Link to Full Interactive Dashboard](https://public.tableau.com/shared/CH5JW3NY8?:display_count=n&:origin=viz_share_link)
